@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="segmentation">
+    <file>art_design/2.png</file>
+    <file>art_design/1.png</file>
+    <file>art_design/background.png</file>
+    <file>art_design/bottom.png</file>
+    <file>art_design/bottom2.png</file>
+    <file>art_design/bottom3.png</file>
+    <file>art_design/bottom4.png</file>
+  </qresource>
+</RCC>

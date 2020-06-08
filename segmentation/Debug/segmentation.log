@@ -1,0 +1,15 @@
+﻿  Moc'ing segmentation.h...
+  moc_segmentation.cpp
+  main.cpp
+  segmentation.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(2176): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(2157) : 参见“std::_Copy_impl”的声明
+          segmentation.cpp(83): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<std::_String_iterator<_Mystr>,char*>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=char *,
+              _Mystr=std::_String_val<std::_Simple_types<char>>,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+          ]
+  正在生成代码...
+  segmentation.vcxproj -> E:\yjy\image_segmentation\vs12_c\segmentation\Win32\Debug\segmentation.exe

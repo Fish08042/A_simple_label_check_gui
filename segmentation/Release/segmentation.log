@@ -1,0 +1,21 @@
+﻿  Moc'ing segmentation.h...
+  Moc'ing son_windows_params.h...
+  Moc'ing son_windows_edit.h...
+  Uic'ing son_windows_edit.ui...
+  Uic'ing son_windows_params.ui...
+  add_noise.cpp
+  conv2.cpp
+  moc_segmentation.cpp
+  moc_son_windows_edit.cpp
+  moc_son_windows_params.cpp
+  gradient.cpp
+  normalize01.cpp
+  main.cpp
+  segmentation.cpp
+  son_windows_edit.cpp
+  son_windows_params.cpp
+  update_lse_biasfiled.cpp
+  正在生成代码...
+  qrc_segmentation.cpp
+add_noise.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  segmentation.vcxproj -> E:\yjy\image_segmentation\vs12_c\segmentation\Win32\Release\segmentation.exe
